@@ -1,0 +1,162 @@
+body{
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+    margin: 0;
+    background-image: url(ce30bf1c460c84c948eb0c23996753d2.jpg);
+}
+.heard{
+    
+    border: 6px solid rgb(78, 80, 92);
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 20px;
+    border-style: groove;
+    width: 7.5cm;
+    height: 15cm;
+    background-color: rgb(15, 87, 196);
+    box-shadow: 1px 3px 30px 0px rgb(36, 36, 36);
+}
+.st{
+    width: 5cm;
+    height: 0.5cm;
+    margin: auto;
+    background-color: black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.tit{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding-top: 2cm;
+    padding-left: 15px;
+    font-family: Franklin Gothic Heavy;
+}
+.inpa{
+    margin-left: 17px;
+    margin-top: 0.7cm;  
+}
+.inph{
+    margin-left: 17px;
+    margin-top: 0.5cm;  
+    
+}
+.name{
+    padding-left: 90px;
+    color: whitesmoke;
+    padding-top: 0.5cm;
+}
+.name a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 10px;
+}
+.thanak{
+    text-align: center;
+    padding-top: 0.8cm;
+    color: whitesmoke;
+}
+.bot{
+    margin-top: 3.895cm;
+    width: 100%cm;
+    height: 1cm;
+    
+    background-color: black;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+.cont{
+    color: whitesmoke;
+    float: left;
+    font-size: 25px;
+    padding-top: 7px;
+    padding-left: 32px;
+}
+.logo{
+    box-shadow: -0.3px 0.4px 20px rgb(83, 83, 83);
+    margin: auto;
+    margin-top: 45%;
+    width: 1.6cm;
+    height: 1.6cm;
+    border-radius: 50px;
+    background-color: whitesmoke;
+}
+.tex{
+    color: rgb(7, 109, 243);
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+    border-radius: 50%;   
+    padding-top: 9px;
+    font-family:Franklin Gothic Heavy;
+}
+.pic1{
+    float: left;
+    margin-left: 1cm;   
+}
+.pic2{
+    float: left;
+    margin-left: 1cm;
+}
+.pic3{
+    float: left;
+    margin-left: 1cm;
+}
+.all{
+    margin-left: 3.4cm;
+}
+.pic1 .heard{
+    
+    border: 6px solid rgb(78, 80, 92);
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 20px;
+    border-style: groove;
+    width: 7.5cm;
+    height: 15cm;
+    background-color: rgb(196, 15, 166);
+    box-shadow: 1px 3px 30px 0px rgb(36, 36, 36);
+}
+.pic2 .heard{
+    
+    border: 6px solid rgb(78, 80, 92);
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 20px;
+    border-style: groove;
+    width: 7.5cm;
+    height: 15cm;
+    background-color: rgb(184, 196, 15);
+    box-shadow: 1px 3px 30px 0px rgb(36, 36, 36);
+}
+.menu {
+    float: left;
+}
+ul{
+    list-style: none;
+    padding-left: 10px;
+}
+ ul li{
+    margin-top: 19px; 
+    text-align: center;
+    width: 2cm;
+    font-size: 10px;
+    height: 20px;
+}
+ ul li a{
+  text-decoration: none;
+  color: rgb(228, 228, 228);
+  text-transform: uppercase;
+}
+ul li ul li{
+    display: none;
+}
+ul li:hover ul li{
+    display:inline-flex;
+}
+.menu a:active{
+    color: white;
+}
+ul li a:hover{
+    color: rgb(223, 134, 0);
+}
